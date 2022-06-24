@@ -1,19 +1,24 @@
-1.Pattern
+<p>
+  1.Pattern
   Input :    5
   Output :   *   *   *   *   *
+</p>
+  
 
-2.Input :    5
+<p>
+  2.Input :    5
   Output :   	1  *  2  *  3   *   4   *   5   *
+ </p>
 
 3.Input :    6
   Output :   *    #   *   #   *   #
   
-4.
+<p>4.
 A B C D
 a b c d 
 A B C D
 a b c d
-
+</p>
 5.
  *  *   *   *
  $  $   $   $
