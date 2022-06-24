@@ -1,9 +1,9 @@
 <p>
-  1.Pattern
-  Input :    5
-  Output :   *   *   *   *   *
+  1.Pattern <br>
+  Input :    5 <br>
+  Output :   *   *   *   *   * <br>
 </p>
-  
+<p>I think I'll use it to format all of my documents from now on.</p>
 
 <p>
   2.Input :    5
